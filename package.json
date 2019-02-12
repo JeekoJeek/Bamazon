@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon-hw",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeekoJeek/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "John Hansberry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeekoJeek/Bamazon/issues"
+  },
+  "homepage": "https://github.com/JeekoJeek/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
